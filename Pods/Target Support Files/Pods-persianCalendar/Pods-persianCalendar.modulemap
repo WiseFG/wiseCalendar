@@ -1,0 +1,6 @@
+framework module Pods_persianCalendar {
+  umbrella header "Pods-persianCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
